@@ -1,0 +1,28 @@
+{
+  "name": "zetta-sqlite3-registry",
+  "version": "0.1.0",
+  "description": "Zetta sqlite3 device and peer registries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Magaluk <AdamMagaluk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "levelup": "^1.2.1",
+    "sqldown": "^2.1.0",
+    "sqlite3": "^3.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zettajs/zetta-sqlite3-registry.git"
+  },
+  "keywords": [
+    "zetta"
+  ],
+  "bugs": {
+    "url": "https://github.com/zettajs/zetta-sqlite3-registry/issues"
+  },
+  "homepage": "https://github.com/zettajs/zetta-sqlite3-registry#readme"
+}
